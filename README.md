@@ -42,6 +42,7 @@ Developed by: zaazouamouad
 This project is intended for educational and security purposes only. Any malicious or illegal use is the responsibility of the user, and the developer is not liable for such misuse.
 
 📸 Screenshot
+<img width="710" height="1099" alt="17774412370978800713048291680120" src="https://github.com/user-attachments/assets/8557ce77-b743-435b-bd5b-f085e383f8fc" />
 
 ## 🚀 Installation
 
